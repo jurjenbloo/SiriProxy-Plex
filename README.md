@@ -46,11 +46,4 @@ FAQ
 
 Recent Updates
 --------------
-**8-Dec-2011**
-+       Added this README.md with "Voice Commands" section to help identify conflicts with other plugins.
-+       Added message "Couldn't find anything in on deck queue" when onDeck is empty
-
-
-**9-Dec-2011**
-+       Added support for multiple TV sections: set by using 'auto' for plex_tv_index in config.yml
 
